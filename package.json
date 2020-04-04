@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "lodash": "4.17.15",
     "tone": "13.8.25"
   },
   "devDependencies": {
